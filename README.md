@@ -1,19 +1,26 @@
-# 💬 Chatbot template
+ 
 
-A simple Streamlit app that shows how to build a chatbot using OpenAI's GPT-3.5.
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Web Page</title>
+</head>
+<body>
+    <h1>Welcome to My Web Page</h1>
+    <p>This is a paragraph with some text.</p>
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chatbot-template.streamlit.app/)
+    <!-- Adding an image -->
+    <img src="https://via.placeholder.com/150" alt="Placeholder Image">
 
-### How to run it on your own machine
+    <!-- Adding a list -->
+    <h2>My Favorite Things:</h2>
+    <ul>
+        <li>Coding</li>
+        <li>Reading</li>
+        <li>Music</li>
+    </ul>
 
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+    <!-- Adding a button -->
+    <button onclick="alert('You clicked the button!')">Click Me</button>
+</body>
+</html>
